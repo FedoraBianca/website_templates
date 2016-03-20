@@ -1,0 +1,58 @@
+/*Header-------------------------------------------*/
+
+#title{
+    color: #23201a;
+    display: inline-block;
+    font-family: 'Alex Brush', cursive;
+    font-size: 3.5em;
+    margin-bottom: 0%;
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#motto{
+    display: inline-block;
+    font-family: 'Satisfy', cursive;
+    margin-left: 1em;
+    margin-bottom: 0%;
+    color:#0c0909;
+}
+
+#banner{
+    height: 15em;
+    display: block;
+}
+
+#bannerimg{
+    width:100%;
+    max-height: 100%;
+    outline-color: #b5a397;
+    outline-style: dotted;
+    outline-width: thin;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+#maincontent{
+    background-color: #bebd7b;
+    height: auto;
+    color: #23201a;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*Footer-------------------------------------------*/
+
+#footer{
+    background-color: clear;
+    height: 15em;
+    margin-top: 0.4em;
+
+}
+#footerimage{ float: right; width: 40%;}
+
+#copyright{
+    color: #23201a;
+    font-family: 'Lobster', cursive;
+    font-size: 1.2em;
+    margin: 0em;
+    text-decoration: none;
+}

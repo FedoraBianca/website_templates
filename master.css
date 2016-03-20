@@ -1,0 +1,73 @@
+@import url('reset.css');
+/*          Layout:           */
+@import url('pagelayout.css');
+/*          Fonts:            */
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Dosis:600');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('cssmenu.css'); 
+/*          Menu:             */
+
+
+body{background-color:#c7bdaa;}
+
+
+h1,h2,h3,h5,h5,h6{
+    font-family: 'Helvetica', Arial, sans-serif;
+    color: #23201a; 
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.6em;
+}
+
+p,figcaption{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+#pret{
+    color: darkred;
+}
+
+.center{
+    width:66%;
+    margin: 0em auto;  
+}
+
+
+.section1{
+    display:inline-block;
+    width: 40%;
+    position: relative;
+    margin: 1em 4em 1em 2em;
+}
+.section2{
+    display:inline-block;
+    width: auto;
+    position: absolute;
+    margin: 1%;
+}
+
+#centercont{
+    width: 80%;
+    margin: 0em auto;
+}
+
+figure{
+    width: 25%;
+    display:inline-block;
+    position:relative;
+    background-color: aliceblue;
+    margin: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.figimg{
+    width: 100%;
+}
+
+#fig1,#fig4{
+    margin-left: 3em;
+}
+
